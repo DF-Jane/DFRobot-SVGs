@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg5618"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="SEN0023.svg"
+   inkscape:export-filename="D:\01-Fish\02-教程\中级套件教程\中级套件连线图\项目 12\DFR0027.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <defs
+     id="defs5620" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="417.32565"
+     inkscape:cy="618.27564"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5623">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="translate(161.77985,-79.803159)"
+       id="g25850"
+       inkscape:export-filename="D:\01-Fish\02-教程\中级套件教程\中级套件连线图\项目 12\SEN0023png.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <rect
+         style="fill:none"
+         width="0.8999998"
+         x="231.66641"
+         y="491.62277"
+         height="0.8999998"
+         id="connector0pin-6-9-03" />
+      <rect
+         style="fill:none"
+         width="0.8999998"
+         x="231.7644"
+         y="489.08215"
+         height="0.8999998"
+         id="connector1pin-3-0-4" />
+      <rect
+         style="fill:none"
+         width="0.8999998"
+         x="231.66641"
+         y="486.57742"
+         height="0.8999998"
+         id="connector2pin-7-8-0" />
+      <polygon
+         transform="matrix(1.2499997,0,0,1.2499997,140.35866,466.4354)"
+         style="fill:#000080;fill-opacity:0.85405405"
+         points="12.5078,6.69744 12.5078,-6.75648 70.3562,-6.75648 70.3562,6.69744 82.463,6.69744 82.463,8.04168 70.3562,8.04168 70.3562,33.6017 12.5078,33.6017 12.5078,8.04168 0.40032,8.04168 0.40032,6.69744 "
+         id="polygon13-3-0" />
+      <polygon
+         style="fill:#000055"
+         transform="matrix(1.2499997,0,0,1.2499997,140.35866,466.4354)"
+         points="8.47152,8.04168 12.5078,8.04168 12.5078,33.6017 8.47152,29.5668 "
+         id="polygon15-8-53" />
+      <polygon
+         transform="matrix(1.2499997,0,0,1.2499997,140.35866,466.4354)"
+         style="fill:#aaaaff"
+         points="0.40032,6.69744 0.40032,-0.03024 8.47152,-0.03024 8.47152,2.6604 12.5078,6.69744 "
+         id="polygon17-7-1" />
+      <polygon
+         transform="matrix(1.2499997,0,0,1.2499997,140.35866,466.4354)"
+         style="fill:#8080ff"
+         points="12.5078,-6.75648 8.47152,-10.7921 8.47152,-18.864 12.5078,-22.8996 70.3562,-22.8996 74.3911,-18.864 74.3911,-10.7921 70.3562,-6.75648 "
+         id="polygon19-2-06" />
+      <polygon
+         transform="matrix(1.2499997,0,0,1.2499997,140.35866,466.4354)"
+         style="fill:#5555ff"
+         points="74.3911,8.04168 70.3562,8.04168 70.3562,33.6017 74.3911,29.5668 "
+         id="polygon21-6-7" />
+      <polygon
+         transform="matrix(1.2499997,0,0,1.2499997,140.35866,466.4354)"
+         style="fill:#aaaaff"
+         points="82.4638,6.69744 82.4638,-0.03024 74.3911,-0.03024 74.3911,2.6604 70.3562,6.69744 "
+         id="polygon23-9-5" />
+      <polygon
+         style="fill:#000055"
+         transform="matrix(1.2499997,0,0,1.2499997,140.35866,466.4354)"
+         points="8.47152,-10.7921 12.5078,-6.75648 12.5078,6.69744 8.47152,2.6604 "
+         id="polygon25-3-0" />
+      <polygon
+         transform="matrix(1.2499997,0,0,1.2499997,140.35866,466.4354)"
+         style="fill:#5555ff"
+         points="74.3911,-10.7921 70.3562,-6.75648 70.3562,6.69744 74.3911,2.6604 "
+         id="polygon27-8-0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text73582-1-4"
+         y="474.47812"
+         x="164.27252"
+         style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffff00;font-family:Arial;-inkscape-font-specification:Arial Bold"
+           y="474.47812"
+           x="164.27252"
+           id="tspan73584-0-54"
+           sodipodi:role="line">Micro Servo</tspan></text>
+      <g
+         transform="translate(99.110465,226.75786)"
+         id="g74818-3-9">
+        <path
+           d="m 120.94196,225.2484 c -5.9058,3.249 -12.40739,1.3869 -14.88874,-0.1458 -2.48213,-1.5327 -17.153025,-14.01307 -19.122224,-15.25407 -1.971,-1.2411 -1.7523,-2.988 -1.7523,-5.5179 0,-3.2193 1.6056,2.4084 4.964399,3.9411 3.356099,1.5327 33.914745,5.3037 33.914745,10.899 -0.002,1.70279 0.6795,3.98967 -3.11588,6.07767 z"
+           id="path29-3-5"
+           inkscape:connector-curvature="0"
+           style="fill:#cccccc" />
+        <path
+           d="m 120.94196,223.52577 c -5.6196,3.7224 -12.40739,1.3869 -14.88874,-0.1467 -2.48213,-1.53267 -17.153025,-14.01304 -19.122224,-15.25404 -1.971,-1.2402 -2.7738,-4.8897 -0.0729,-6.6411 2.699999,-1.7514 6.422398,-0.7308 9.779397,0.8028 3.356999,1.5327 17.444747,7.4439 22.260617,10.2915 4.81773,2.8458 7.66523,7.22517 2.04385,10.94754 z M 91.406694,206.56803 c 2.3652,0 4.283099,-0.9585 4.283099,-2.1411 0,-1.1826 -1.917899,-2.1402 -4.283099,-2.1402 -2.365199,0 -4.282198,0.9576 -4.282198,2.1402 0,1.1826 1.916999,2.1411 4.282198,2.1411 z"
+           id="path31-8-6"
+           inkscape:connector-curvature="0"
+           style="fill:#e6e6e6" />
+        <path
+           style="fill:#cccccc"
+           inkscape:connector-curvature="0"
+           id="path35-4-4"
+           d="m 95.633093,204.88765 c -0.424799,-0.9585 -2.132099,-1.6758 -4.178699,-1.6758 -2.044799,0 -3.807899,0.7164 -4.232699,1.6749 l 0.0036,9e-4 c -0.0648,-0.1485 -0.100799,-0.3015 -0.100799,-0.4599 0,-1.1826 1.916999,-2.1402 4.282198,-2.1402 2.3652,0 4.283099,0.9576 4.283099,2.1402 0,0.1584 0,0.3204 -0.0648,0.4689 l 0.0081,-0.009 z" />
+        <ellipse
+           d="m 31.74764,-18.277901 c 0,1.775485 -2.579484,3.2148 -5.76144,3.2148 -3.181955,0 -5.761439,-1.439315 -5.761439,-3.2148 0,-1.775485 2.579484,-3.2148 5.761439,-3.2148 3.181956,0 5.76144,1.439315 5.76144,3.2148 z"
+           style="fill:#8080ff;fill-opacity:1"
+           sodipodi:ry="3.2147999"
+           sodipodi:rx="5.7614398"
+           sodipodi:cy="-18.277901"
+           sodipodi:cx="25.9862"
+           cx="25.9862"
+           cy="-18.277901"
+           rx="5.7614398"
+           ry="3.2147999"
+           id="ellipse39-8-8"
+           transform="matrix(1.2499997,0,0,1.2499997,80.918097,241.09377)" />
+        <path
+           d="m 106.32872,218.20765 c 0.7146,1.7271 3.5865,3.0204 7.02629,3.0204 3.4398,0 6.4044,-1.2924 7.1208,-3.0204 l -0.007,0 c 0.1089,0.2664 0.1692,0.5436 0.1692,0.828 0,2.1312 -3.2238,3.8592 -7.2018,3.8592 -3.97799,0 -7.20179,-1.728 -7.20179,-3.8592 0,-0.2844 -9e-4,-0.5778 0.108,-0.8442 l -0.0135,0.0162 z"
+           id="path43-0-2"
+           inkscape:connector-curvature="0"
+           style="fill:#0000d4;fill-opacity:0.85490196" />
+      </g>
+    </g>
+  </g>
+</svg>

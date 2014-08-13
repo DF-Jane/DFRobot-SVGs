@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="DFR0239_Connect.svg"
+   inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="459.57914"
+     inkscape:cy="454.11515"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1138"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3788" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f1f1f1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.07420647px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect2985"
+       width="110"
+       height="110"
+       x="-659.11865"
+       y="-633.03412"
+       ry="12.555126"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(-1,-1)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3904"
+       width="30"
+       height="30"
+       x="-619.11865"
+       y="-593.03412"
+       ry="0"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(-1,-1)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#fff8f8;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.12598419;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3961"
+       sodipodi:cx="367.5"
+       sodipodi:cy="444.86218"
+       sodipodi:rx="17.5"
+       sodipodi:ry="37.5"
+       d="m 385,444.86218 a 17.5,37.5 0 1 1 -35,0 17.5,37.5 0 1 1 35,0 z"
+       transform="matrix(-0.85714285,0,0,-0.4,919.11867,755.97898)"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.04453618px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4040-1"
+       width="3"
+       height="2"
+       x="-589.11865"
+       y="-588.03412"
+       ry="0"
+       inkscape:transform-center-x="2.5"
+       inkscape:transform-center-y="-5"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(-1,-1)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.04453618px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4040-7"
+       width="3"
+       height="2"
+       x="-589.11865"
+       y="-570.03412"
+       ry="0"
+       inkscape:transform-center-x="1.5625"
+       inkscape:transform-center-y="-3"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(-1,-1)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.04453618px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4040-4"
+       width="3"
+       height="2"
+       x="-622.11865"
+       y="-570.03412"
+       ry="0"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(-1,-1)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.04453618px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4040-0"
+       width="3"
+       height="2"
+       x="-622.11865"
+       y="-588.03412"
+       ry="0"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(-1,-1)" />
+    <g
+       id="g70610-7-2-9"
+       transform="matrix(0,-0.10901844,0.07200954,0,23.057599,1536.3499)"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(-9.8620541,0,0,-28.23663,9784.601,21436.823)"
+         id="g38997-4-2-6-5-7-4-9">
+        <rect
+           rx="0"
+           y="490.33093"
+           x="107.83482"
+           height="2.3214285"
+           width="1.4285715"
+           id="rect38999-3-7-5-5-1-1-8"
+           style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:#ececec;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.15" />
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.15"
+           id="rect39001-1-7-0-2-9-2-1"
+           width="1.4285715"
+           height="2.2544641"
+           x="106.38393"
+           y="490.35324"
+           rx="0" />
+      </g>
+      <rect
+         ry="0"
+         y="7525.9805"
+         x="8736.4531"
+         height="66.527817"
+         width="61.032993"
+         id="rect12388-2-0-9-8"
+         style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#88aa00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.15" />
+      <g
+         transform="matrix(-9.8620539,0,0,-28.23663,9875.1427,21436.823)"
+         id="g38997-4-2-6-5-8-3-0-2">
+        <rect
+           rx="0"
+           y="490.33093"
+           x="107.83482"
+           height="2.3214285"
+           width="1.4285715"
+           id="rect38999-3-7-5-5-2-4-8-6"
+           style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:#ececec;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.15" />
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.15"
+           id="rect39001-1-7-0-2-3-1-7-6"
+           width="1.4285715"
+           height="2.2544641"
+           x="106.38393"
+           y="490.35324"
+           rx="0" />
+      </g>
+    </g>
+    <g
+       id="g70610-7-2-9-9"
+       transform="matrix(0,0.10901844,-0.07200954,0,1186.733,-375.07231)"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(-9.8620541,0,0,-28.23663,9784.601,21436.823)"
+         id="g38997-4-2-6-5-7-4-9-4">
+        <rect
+           rx="0"
+           y="490.33093"
+           x="107.83482"
+           height="2.3214285"
+           width="1.4285715"
+           id="rect38999-3-7-5-5-1-1-8-8"
+           style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:#ececec;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.15" />
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.15"
+           id="rect39001-1-7-0-2-9-2-1-8"
+           width="1.4285715"
+           height="2.2544641"
+           x="106.38393"
+           y="490.35324"
+           rx="0" />
+      </g>
+      <rect
+         ry="0"
+         y="7525.9805"
+         x="8736.4531"
+         height="66.527817"
+         width="61.032993"
+         id="rect12388-2-0-9-8-2"
+         style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#88aa00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.15" />
+      <g
+         transform="matrix(-9.8620539,0,0,-28.23663,9875.1427,21436.823)"
+         id="g38997-4-2-6-5-8-3-0-2-4">
+        <rect
+           rx="0"
+           y="490.33093"
+           x="107.83482"
+           height="2.3214285"
+           width="1.4285715"
+           id="rect38999-3-7-5-5-2-4-8-6-5"
+           style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:#ececec;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.15" />
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.15"
+           id="rect39001-1-7-0-2-3-1-7-6-5"
+           width="1.4285715"
+           height="2.2544641"
+           x="106.38393"
+           y="490.35324"
+           rx="0" />
+      </g>
+    </g>
+    <g
+       id="g70610-7-2-9-1"
+       transform="matrix(0.10901844,0,0,0.07200954,-351.31583,61.301077)"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(-9.8620541,0,0,-28.23663,9784.601,21436.823)"
+         id="g38997-4-2-6-5-7-4-9-7">
+        <rect
+           rx="0"
+           y="490.33093"
+           x="107.83482"
+           height="2.3214285"
+           width="1.4285715"
+           id="rect38999-3-7-5-5-1-1-8-1"
+           style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:#ececec;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.15" />
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.15"
+           id="rect39001-1-7-0-2-9-2-1-1"
+           width="1.4285715"
+           height="2.2544641"
+           x="106.38393"
+           y="490.35324"
+           rx="0" />
+      </g>
+      <rect
+         ry="0"
+         y="7525.9805"
+         x="8736.4531"
+         height="66.527817"
+         width="61.032993"
+         id="rect12388-2-0-9-8-5"
+         style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#88aa00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.15" />
+      <g
+         transform="matrix(-9.8620539,0,0,-28.23663,9875.1427,21436.823)"
+         id="g38997-4-2-6-5-8-3-0-2-2">
+        <rect
+           rx="0"
+           y="490.33093"
+           x="107.83482"
+           height="2.3214285"
+           width="1.4285715"
+           id="rect38999-3-7-5-5-2-4-8-6-7"
+           style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:#ececec;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.15" />
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.15"
+           id="rect39001-1-7-0-2-3-1-7-6-6"
+           width="1.4285715"
+           height="2.2544641"
+           x="106.38393"
+           y="490.35324"
+           rx="0" />
+      </g>
+    </g>
+    <g
+       transform="matrix(-3.4408095,0,0,-3.5825052,1477.3279,1393.8194)"
+       id="g22765"
+       inkscape:transform-center-x="4.5918794"
+       inkscape:transform-center-y="2.3602392"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z"
+         transform="matrix(0,0.71951439,0.75530322,0,253.10174,234.25017)"
+         style="fill:none;stroke:#b3b3b3;stroke-width:1.15199995"
+         sodipodi:ry="1.584"
+         sodipodi:rx="1.584"
+         sodipodi:cy="11.52"
+         sodipodi:cx="4.3200002"
+         r="1.584"
+         id="connector1pad-4-5-0-39-81-5"
+         cy="11.52"
+         cx="4.3200002" />
+      <circle
+         d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z"
+         transform="matrix(0,0.71951439,0.75530322,0,247.66365,234.25017)"
+         style="fill:none;stroke:#b3b3b3;stroke-width:1.15199995"
+         sodipodi:ry="1.584"
+         sodipodi:rx="1.584"
+         sodipodi:cy="11.52"
+         sodipodi:cx="4.3200002"
+         r="1.584"
+         id="connector1pad-4-2-3-6-0-4"
+         cy="11.52"
+         cx="4.3200002" />
+      <circle
+         d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z"
+         transform="matrix(0,0.71951439,0.75530322,0,242.22556,234.25017)"
+         style="fill:none;stroke:#b3b3b3;stroke-width:1.15199995"
+         sodipodi:ry="1.584"
+         sodipodi:rx="1.584"
+         sodipodi:cy="11.52"
+         sodipodi:cx="4.3200002"
+         r="1.584"
+         id="connector1pad-0-1-9-9-3-9"
+         cy="11.52"
+         cx="4.3200002" />
+      <circle
+         d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z"
+         transform="matrix(0,0.71951439,0.75530322,0,236.78747,234.25017)"
+         style="fill:none;stroke:#b3b3b3;stroke-width:1.15199995"
+         sodipodi:ry="1.584"
+         sodipodi:rx="1.584"
+         sodipodi:cy="11.52"
+         sodipodi:cx="4.3200002"
+         r="1.584"
+         id="connector1pad-4-5-0-3-1-1-5"
+         cy="11.52"
+         cx="4.3200002" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72134-28-6"
+         x2="263.17389"
+         y2="234.79254"
+         x1="260.4548"
+         y1="234.79254" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72136-0-4"
+         x2="264.53345"
+         y2="236.08766"
+         x1="263.17389"
+         y1="234.79254" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72138-7-8"
+         x2="263.17389"
+         y2="239.97304"
+         x1="264.53345"
+         y1="238.67792" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72152-8-2"
+         x2="255.01662"
+         y2="234.79254"
+         x1="253.65707"
+         y1="236.08766" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72154-5-1"
+         x2="257.73572"
+         y2="234.79254"
+         x1="255.01662"
+         y1="234.79254" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72156-0-6"
+         x2="259.09525"
+         y2="236.08766"
+         x1="257.73572"
+         y1="234.79254" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72158-7-8"
+         x2="257.73572"
+         y2="239.97304"
+         x1="259.09525"
+         y1="238.67792" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72160-9-3"
+         x2="255.01662"
+         y2="239.97304"
+         x1="257.73572"
+         y1="239.97304" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72162-0-1"
+         x2="253.65707"
+         y2="238.67792"
+         x1="255.01662"
+         y1="239.97304" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72164-5-4"
+         x2="259.09525"
+         y2="236.08766"
+         x1="260.4548"
+         y1="234.79254" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72166-34-8"
+         x2="260.4548"
+         y2="239.97304"
+         x1="259.09525"
+         y1="238.67792" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72168-1-4"
+         x2="260.4548"
+         y2="239.97304"
+         x1="263.17389"
+         y1="239.97304" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72170-0-9"
+         x2="246.85934"
+         y2="234.79254"
+         x1="244.14024"
+         y1="234.79254" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72172-4-20"
+         x2="248.21889"
+         y2="236.08766"
+         x1="246.85934"
+         y1="234.79254" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72174-8-7"
+         x2="246.85934"
+         y2="239.97304"
+         x1="248.21889"
+         y1="238.67792" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72176-5-0"
+         x2="249.57845"
+         y2="234.79254"
+         x1="248.21889"
+         y1="236.08766" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72178-9-6"
+         x2="252.29753"
+         y2="234.79254"
+         x1="249.57845"
+         y1="234.79254" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72180-25-0"
+         x2="253.65707"
+         y2="236.08766"
+         x1="252.29753"
+         y1="234.79254" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72182-4-7"
+         x2="252.29753"
+         y2="239.97304"
+         x1="253.65707"
+         y1="238.67792" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72184-1-0"
+         x2="249.57845"
+         y2="239.97304"
+         x1="252.29753"
+         y1="239.97304" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72186-3-5"
+         x2="248.21889"
+         y2="238.67792"
+         x1="249.57845"
+         y1="239.97304" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72188-95-6"
+         x2="242.78069"
+         y2="238.67792"
+         x1="242.78069"
+         y1="236.08766" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72190-8-7"
+         x2="242.78069"
+         y2="236.08766"
+         x1="244.14024"
+         y1="234.79254" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72192-2-3"
+         x2="244.14024"
+         y2="239.97304"
+         x1="242.78069"
+         y1="238.67792" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72194-7-8"
+         x2="244.14024"
+         y2="239.97304"
+         x1="246.85934"
+         y1="239.97304" />
+      <line
+         style="fill:none;stroke:#ffffff;stroke-width:0.42462233;stroke-linecap:round"
+         id="line72188-95-3-4"
+         x2="264.54242"
+         y2="238.70195"
+         x1="264.54242"
+         y1="236.11171" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:9.35485363px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="512.43677"
+       y="-645.60901"
+       id="text4865"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1.0245832,-0.97600663,0,0,0)"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4867"
+         x="512.43677"
+         y="-645.60901">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="343.12357"
+       y="467.58487"
+       id="text4953"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4955"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.35485363px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="512.43677"
+       y="-626.14191"
+       id="text4865-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1.0245832,-0.97600663,0,0,0)"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4867-4"
+         x="512.43677"
+         y="-626.14191">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.35485363px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="512.43677"
+       y="-606.67487"
+       id="text4865-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1.0245832,-0.97600663,0,0,0)"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4867-3"
+         x="512.43677"
+         y="-606.67487">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.5063777px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="508.54575"
+       y="-591.60413"
+       id="text4865-2-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1.0304562,-0.97044397,0,0,0)"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4867-3-2"
+         x="508.54575"
+         y="-591.60413">5v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.48280716px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-625.94092"
+       y="-627.98224"
+       id="text5096"
+       sodipodi:linespacing="125%"
+       transform="scale(-1.0210527,-0.97938138)"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5098"
+         x="-625.94092"
+         y="-627.98224">RGB LED</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#090909;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.12598419;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5266"
+       sodipodi:cx="393"
+       sodipodi:cy="391.36218"
+       sodipodi:rx="8"
+       sodipodi:ry="7"
+       d="m 401,391.36218 a 8,7 0 1 1 -16,0 8,7 0 1 1 16,0 z"
+       transform="matrix(-0.25,0,0,-0.28571429,656.36867,720.85188)"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <image
+       y="522.36218"
+       x="218"
+       id="image5555"
+       xlink:href="data:image/png;base64,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
+"
+       height="210"
+       width="302"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3.05322409;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 371,531.36218 0,-54 205,0 0,67"
+       id="path5945"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ff00f6;stroke-width:2.94658327;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 381,531.36218 0,-69 214,0 0,82"
+       id="path5958"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#00ff38;stroke-width:3.0246706;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 392,531.36218 0,-84 222,0 0,97"
+       id="path5993"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#0500ff;stroke-width:3.01424098;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 402,531.36218 0,-99 231,0 0,112"
+       id="path5995"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\jessie\Desktop\DFR0239_Connect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
