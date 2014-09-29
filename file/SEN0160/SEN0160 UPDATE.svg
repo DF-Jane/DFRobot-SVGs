@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 "
-   sodipodi:docname="SEN0160.svg"
+   sodipodi:docname="SEN0160 UPDATE.svg"
    inkscape:export-filename="C:\Users\静\Desktop\HX711.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600">
@@ -1503,7 +1503,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1637,42 +1637,6 @@
                id="path17662"
                inkscape:connector-curvature="0" />
           </g>
-          <text
-             xml:space="preserve"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft YaHei;-inkscape-font-specification:Microsoft YaHei"
-             x="161.55048"
-             y="523.88959"
-             id="text5127"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               id="tspan5129"
-               x="161.55048"
-               y="523.88959"
-               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff6600;font-family:Microsoft YaHei;-inkscape-font-specification:Microsoft YaHei">称重传感器模块</tspan></text>
-          <path
-             style="fill:#784421;stroke:#000000;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             d="m 214.45071,532.3192 64.93092,9.53114"
-             id="path5166"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="cc" />
-          <path
-             style="fill:none;stroke:#000000;stroke-width:2.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             d="m 157.16164,651.21175 88.16309,29.78482"
-             id="path5166-1"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="cc" />
-          <text
-             xml:space="preserve"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Microsoft YaHei;-inkscape-font-specification:Microsoft YaHei"
-             x="128.52283"
-             y="643.1897"
-             id="text5127-7"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               id="tspan5129-4"
-               x="128.52283"
-               y="643.1897"
-               style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff6600;font-family:Microsoft YaHei;-inkscape-font-specification:Microsoft YaHei">称重传感器</tspan></text>
           <g
              id="g37159"
              transform="translate(-439.84378,-39.026884)">
@@ -5996,6 +5960,7 @@
 
 
 
+
     </g><path
    id="path3028-1-7"
    style="fill:#ffffff"
@@ -6012,6 +5977,7 @@
    inkscape:transform-center-x="-5.2010128e-005"><tspan
      style="font-size:63.22213364px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-5.60369205px;writing-mode:lr-tb;text-anchor:start;font-family:Eras Demi ITC;-inkscape-font-specification:Eras Demi ITC"
      id="tspan10594-1-5-6">UNO</tspan></text>
+
 
 
 
@@ -6037,6 +6003,7 @@
 
 
 
+
 <text
    transform="scale(0.97370793,1.027002)"
    sodipodi:linespacing="125%"
@@ -6046,6 +6013,7 @@
    id="tspan7603-82-1"><tspan
      style="font-size:9.55873966px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.84723866px;writing-mode:lr-tb;text-anchor:start;font-family:Eras Demi ITC;-inkscape-font-specification:Eras Demi ITC"
      id="tspan10594-4-3">DFROBOT</tspan></text>
+
 
 
 

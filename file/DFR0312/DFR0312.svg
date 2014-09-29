@@ -15,10 +15,17 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.4 r"
    sodipodi:docname="DFR0312.svg">
   <defs
      id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective19167" />
     <linearGradient
        id="linearGradient5872"
        osb:paint="solid">
@@ -994,13 +1001,15 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1-9"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-to-guides="false"
-     inkscape:snap-grids="false">
+     inkscape:snap-grids="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid3961" />
@@ -1028,936 +1037,944 @@
       <g
          inkscape:label="Layer 1"
          id="layer1-5"
-         transform="translate(-655.30616,79.485538)">
-        <g
-           transform="matrix(0,-1,1,0,738.68995,743.75289)"
-           id="g35495">
-          <a
-             transform="matrix(1,0,0,0.79689119,0,41.630629)"
-             id="a6077">
-            <rect
-               style="fill:#000000;fill-opacity:1;stroke:none"
-               id="rect5279"
-               width="44.746868"
-               height="145.70393"
-               x="182.59369"
-               y="-685.11572"
-               transform="matrix(0,1,-1,0,0,0)" />
-          </a>
+         transform="translate(-655.05616,78.735538)">
+        <a
+           id="a6077"
+           transform="matrix(0,-1,0.79689119,0,780.32058,743.75289)">
           <rect
              transform="matrix(0,1,-1,0,0,0)"
-             y="-685.7287"
-             x="116.74747"
-             height="62.376919"
-             width="176.31418"
-             id="rect5277"
-             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
-          <path
-             inkscape:connector-curvature="0"
-             id="rect29848"
-             d="m 685.05067,272.14321 0,-52.19698 -1.48328,0 0,-29.62844 1.48328,0 0,-52.19698 -31.24169,0 0,134.0224 31.24169,0 z"
-             style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:1.35319626;stroke-opacity:1" />
+             y="-685.11572"
+             x="182.59369"
+             height="145.70393"
+             width="44.746868"
+             id="rect5279"
+             style="fill:#000000;fill-opacity:1;stroke:none" />
+        </a>
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="rect5277"
+           width="176.31418"
+           height="62.376919"
+           x="855.43744"
+           y="58.024193" />
+        <path
+           style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:1.35319626;stroke-opacity:1"
+           d="m 1010.8332,58.70222 -52.19702,0 0,1.48328 -29.62844,0 0,-1.48328 -52.19698,0 0,31.24169 134.02244,0 0,-31.24169 z"
+           id="rect29848"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g31181"
+           transform="matrix(0,1,-1,0,1695.7306,-167.87083)">
+          <rect
+             transform="matrix(0,-1,1,0,0,0)"
+             style="fill:#8c8663;stroke-width:0"
+             id="rect21413-0-4"
+             height="1.4787502"
+             y="245.57524"
+             x="-791.64526"
+             width="1.4762502" />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)"
+             style="fill:#b8af82;stroke-width:0"
+             id="polygon21415-9-1"
+             points="33.053,84.09 34.233,84.09 34.791,83.534 32.493,83.534 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)"
+             style="fill:#80795b;stroke-width:0"
+             id="polygon21417-4-1"
+             points="34.233,84.09 34.791,83.534 34.791,85.833 34.233,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)"
+             style="fill:#5e5b43;stroke-width:0"
+             id="polygon21419-88-38"
+             points="34.233,85.273 34.791,85.833 32.493,85.833 33.053,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)"
+             style="fill:#9a916c;stroke-width:0"
+             id="polygon21421-2-7"
+             points="33.053,84.09 33.053,85.273 32.493,85.833 32.493,83.534 " />
+          <rect
+             transform="matrix(0,-1,1,0,0,0)"
+             style="fill:#8c8663;stroke-width:0"
+             id="rect21413-4-4"
+             height="1.4787502"
+             y="245.57524"
+             x="-781.95135"
+             width="1.4762502" />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)"
+             style="fill:#b8af82;stroke-width:0"
+             id="polygon21415-5-2"
+             points="33.053,84.09 34.233,84.09 34.791,83.534 32.493,83.534 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)"
+             style="fill:#80795b;stroke-width:0"
+             id="polygon21417-6-77"
+             points="34.233,84.09 34.791,83.534 34.791,85.833 34.233,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)"
+             style="fill:#5e5b43;stroke-width:0"
+             id="polygon21419-8-9"
+             points="34.233,85.273 34.791,85.833 32.493,85.833 33.053,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)"
+             style="fill:#9a916c;stroke-width:0"
+             id="polygon21421-0-3"
+             points="33.053,84.09 33.053,85.273 32.493,85.833 32.493,83.534 " />
           <g
-             transform="matrix(-1,0,0,-1,911.62372,957.04069)"
-             id="g31181">
+             transform="matrix(0,1,-1,0,1002.3991,687.15202)"
+             id="g36369-1">
             <rect
                width="1.4762502"
-               x="-791.64526"
-               y="245.57524"
+               x="-85.105492"
+               y="-756.82385"
                height="1.4787502"
-               id="rect21413-0-4"
+               id="rect21413-5-98"
                style="fill:#8c8663;stroke-width:0"
-               transform="matrix(0,-1,1,0,0,0)" />
+               transform="scale(-1,-1)" />
             <polygon
-               points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 "
-               id="polygon21415-9-1"
+               points="33.053,84.09 34.233,84.09 34.791,83.534 32.493,83.534 "
+               id="polygon21415-59-6"
                style="fill:#b8af82;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)" />
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
             <polygon
-               points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 "
-               id="polygon21417-4-1"
+               points="34.233,84.09 34.791,83.534 34.791,85.833 34.233,85.273 "
+               id="polygon21417-3-5"
                style="fill:#80795b;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)" />
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
             <polygon
-               points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 "
-               id="polygon21419-88-38"
+               points="34.233,85.273 34.791,85.833 32.493,85.833 33.053,85.273 "
+               id="polygon21419-2-02"
                style="fill:#5e5b43;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)" />
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
             <polygon
-               points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 "
-               id="polygon21421-2-7"
+               points="33.053,84.09 33.053,85.273 32.493,85.833 32.493,83.534 "
+               id="polygon21421-8-8"
                style="fill:#9a916c;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)" />
-            <rect
-               width="1.4762502"
-               x="-781.95135"
-               y="245.57524"
-               height="1.4787502"
-               id="rect21413-4-4"
-               style="fill:#8c8663;stroke-width:0"
-               transform="matrix(0,-1,1,0,0,0)" />
-            <polygon
-               points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 "
-               id="polygon21415-5-2"
-               style="fill:#b8af82;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)" />
-            <polygon
-               points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 "
-               id="polygon21417-6-77"
-               style="fill:#80795b;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)" />
-            <polygon
-               points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 "
-               id="polygon21419-8-9"
-               style="fill:#5e5b43;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)" />
-            <polygon
-               points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 "
-               id="polygon21421-0-3"
-               style="fill:#9a916c;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)" />
-            <g
-               id="g36369-1"
-               transform="matrix(0,1,-1,0,1002.3991,687.15202)">
-              <rect
-                 transform="scale(-1,-1)"
-                 style="fill:#8c8663;stroke-width:0"
-                 id="rect21413-5-98"
-                 height="1.4787502"
-                 y="-756.82385"
-                 x="-85.105492"
-                 width="1.4762502" />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#b8af82;stroke-width:0"
-                 id="polygon21415-59-6"
-                 points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#80795b;stroke-width:0"
-                 id="polygon21417-3-5"
-                 points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#5e5b43;stroke-width:0"
-                 id="polygon21419-2-02"
-                 points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#9a916c;stroke-width:0"
-                 id="polygon21421-8-8"
-                 points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 " />
-            </g>
-            <rect
-               width="1.4762502"
-               x="-811.0329"
-               y="245.54105"
-               height="1.4787502"
-               id="rect21413-4-8-5"
-               style="fill:#8c8663;stroke-width:0"
-               transform="matrix(0,-1,1,0,0,0)" />
-            <polygon
-               points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 "
-               id="polygon21415-5-1-1"
-               style="fill:#b8af82;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)" />
-            <polygon
-               points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 "
-               id="polygon21417-6-7-0"
-               style="fill:#80795b;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)" />
-            <polygon
-               points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 "
-               id="polygon21419-8-5-9"
-               style="fill:#5e5b43;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)" />
-            <polygon
-               points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 "
-               id="polygon21421-0-2-9"
-               style="fill:#9a916c;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)" />
-            <g
-               id="g36369-5-60"
-               transform="matrix(0,1,-1,0,1002.3649,716.23357)">
-              <rect
-                 transform="scale(-1,-1)"
-                 style="fill:#8c8663;stroke-width:0"
-                 id="rect21413-5-3-2"
-                 height="1.4787502"
-                 y="-756.82385"
-                 x="-85.105492"
-                 width="1.4762502" />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#b8af82;stroke-width:0"
-                 id="polygon21415-59-1-4"
-                 points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#80795b;stroke-width:0"
-                 id="polygon21417-3-0-8"
-                 points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#5e5b43;stroke-width:0"
-                 id="polygon21419-2-0-6"
-                 points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#9a916c;stroke-width:0"
-                 id="polygon21421-8-0-5"
-                 points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 " />
-            </g>
-            <rect
-               width="1.4762502"
-               x="-791.64526"
-               y="235.88145"
-               height="1.4787502"
-               id="rect21413-0-2"
-               style="fill:#8c8663;stroke-width:0"
-               transform="matrix(0,-1,1,0,0,0)" />
-            <polygon
-               points="34.791,83.534 32.493,83.534 33.053,84.09 34.233,84.09 "
-               id="polygon21415-9-6"
-               style="fill:#b8af82;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)" />
-            <polygon
-               points="34.791,85.833 34.233,85.273 34.233,84.09 34.791,83.534 "
-               id="polygon21417-4-5"
-               style="fill:#80795b;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)" />
-            <polygon
-               points="32.493,85.833 33.053,85.273 34.233,85.273 34.791,85.833 "
-               id="polygon21419-88-3"
-               style="fill:#5e5b43;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)" />
-            <polygon
-               points="32.493,85.833 32.493,83.534 33.053,84.09 33.053,85.273 "
-               id="polygon21421-2-9"
-               style="fill:#9a916c;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)" />
-            <rect
-               width="1.4762502"
-               x="-781.95135"
-               y="235.88145"
-               height="1.4787502"
-               id="rect21413-4-1"
-               style="fill:#8c8663;stroke-width:0"
-               transform="matrix(0,-1,1,0,0,0)" />
-            <polygon
-               points="34.791,83.534 32.493,83.534 33.053,84.09 34.233,84.09 "
-               id="polygon21415-5-8"
-               style="fill:#b8af82;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)" />
-            <polygon
-               points="34.791,85.833 34.233,85.273 34.233,84.09 34.791,83.534 "
-               id="polygon21417-6-2"
-               style="fill:#80795b;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)" />
-            <polygon
-               points="32.493,85.833 33.053,85.273 34.233,85.273 34.791,85.833 "
-               id="polygon21419-8-1"
-               style="fill:#5e5b43;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)" />
-            <polygon
-               points="32.493,85.833 32.493,83.534 33.053,84.09 33.053,85.273 "
-               id="polygon21421-0-1"
-               style="fill:#9a916c;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)" />
-            <g
-               id="g36369-2"
-               transform="matrix(0,1,-1,0,992.70531,687.15202)">
-              <rect
-                 transform="scale(-1,-1)"
-                 style="fill:#8c8663;stroke-width:0"
-                 id="rect21413-5-9"
-                 height="1.4787502"
-                 y="-756.82385"
-                 x="-85.105492"
-                 width="1.4762502" />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#b8af82;stroke-width:0"
-                 id="polygon21415-59-5"
-                 points="34.791,83.534 32.493,83.534 33.053,84.09 34.233,84.09 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#80795b;stroke-width:0"
-                 id="polygon21417-3-2"
-                 points="34.791,85.833 34.233,85.273 34.233,84.09 34.791,83.534 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#5e5b43;stroke-width:0"
-                 id="polygon21419-2-00"
-                 points="32.493,85.833 33.053,85.273 34.233,85.273 34.791,85.833 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#9a916c;stroke-width:0"
-                 id="polygon21421-8-3"
-                 points="32.493,85.833 32.493,83.534 33.053,84.09 33.053,85.273 " />
-            </g>
-            <rect
-               width="1.4762502"
-               x="-811.0329"
-               y="235.84726"
-               height="1.4787502"
-               id="rect21413-4-8-5-9"
-               style="fill:#8c8663;stroke-width:0"
-               transform="matrix(0,-1,1,0,0,0)" />
-            <polygon
-               points="34.791,83.534 32.493,83.534 33.053,84.09 34.233,84.09 "
-               id="polygon21415-5-1-1-53"
-               style="fill:#b8af82;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)" />
-            <polygon
-               points="34.791,85.833 34.233,85.273 34.233,84.09 34.791,83.534 "
-               id="polygon21417-6-7-0-2"
-               style="fill:#80795b;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)" />
-            <polygon
-               points="32.493,85.833 33.053,85.273 34.233,85.273 34.791,85.833 "
-               id="polygon21419-8-5-9-5"
-               style="fill:#5e5b43;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)" />
-            <polygon
-               points="32.493,85.833 32.493,83.534 33.053,84.09 33.053,85.273 "
-               id="polygon21421-0-2-9-2"
-               style="fill:#9a916c;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)" />
-            <g
-               id="g36369-5-6"
-               transform="matrix(0,1,-1,0,992.67111,716.23357)">
-              <rect
-                 transform="scale(-1,-1)"
-                 style="fill:#8c8663;stroke-width:0"
-                 id="rect21413-5-3-7"
-                 height="1.4787502"
-                 y="-756.82385"
-                 x="-85.105492"
-                 width="1.4762502" />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#b8af82;stroke-width:0"
-                 id="polygon21415-59-1-7"
-                 points="34.791,83.534 32.493,83.534 33.053,84.09 34.233,84.09 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#80795b;stroke-width:0"
-                 id="polygon21417-3-0-22"
-                 points="34.791,85.833 34.233,85.273 34.233,84.09 34.791,83.534 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#5e5b43;stroke-width:0"
-                 id="polygon21419-2-0-9"
-                 points="32.493,85.833 33.053,85.273 34.233,85.273 34.791,85.833 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#9a916c;stroke-width:0"
-                 id="polygon21421-8-0-4"
-                 points="32.493,85.833 32.493,83.534 33.053,84.09 33.053,85.273 " />
-            </g>
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
           </g>
+          <rect
+             transform="matrix(0,-1,1,0,0,0)"
+             style="fill:#8c8663;stroke-width:0"
+             id="rect21413-4-8-5"
+             height="1.4787502"
+             y="245.54105"
+             x="-811.0329"
+             width="1.4762502" />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)"
+             style="fill:#b8af82;stroke-width:0"
+             id="polygon21415-5-1-1"
+             points="33.053,84.09 34.233,84.09 34.791,83.534 32.493,83.534 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)"
+             style="fill:#80795b;stroke-width:0"
+             id="polygon21417-6-7-0"
+             points="34.233,84.09 34.791,83.534 34.791,85.833 34.233,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)"
+             style="fill:#5e5b43;stroke-width:0"
+             id="polygon21419-8-5-9"
+             points="34.233,85.273 34.791,85.833 32.493,85.833 33.053,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)"
+             style="fill:#9a916c;stroke-width:0"
+             id="polygon21421-0-2-9"
+             points="33.053,84.09 33.053,85.273 32.493,85.833 32.493,83.534 " />
           <g
-             id="g5057"
-             transform="matrix(-1,0,0,-1,911.62372,995.80181)">
+             transform="matrix(0,1,-1,0,1002.3649,716.23357)"
+             id="g36369-5-60">
             <rect
-               transform="matrix(0,-1,1,0,0,0)"
-               style="fill:#8c8663;stroke-width:0"
-               id="rect5059"
+               width="1.4762502"
+               x="-85.105492"
+               y="-756.82385"
                height="1.4787502"
-               y="245.57524"
-               x="-791.64526"
-               width="1.4762502" />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)"
-               style="fill:#b8af82;stroke-width:0"
-               id="polygon5061"
-               points="32.493,83.534 33.053,84.09 34.233,84.09 34.791,83.534 " />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)"
-               style="fill:#80795b;stroke-width:0"
-               id="polygon5063"
-               points="34.233,85.273 34.233,84.09 34.791,83.534 34.791,85.833 " />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)"
-               style="fill:#5e5b43;stroke-width:0"
-               id="polygon5065"
-               points="33.053,85.273 34.233,85.273 34.791,85.833 32.493,85.833 " />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)"
-               style="fill:#9a916c;stroke-width:0"
-               id="polygon5067"
-               points="32.493,83.534 33.053,84.09 33.053,85.273 32.493,85.833 " />
-            <rect
-               transform="matrix(0,-1,1,0,0,0)"
+               id="rect21413-5-3-2"
                style="fill:#8c8663;stroke-width:0"
-               id="rect5069"
-               height="1.4787502"
-               y="245.57524"
-               x="-781.95135"
-               width="1.4762502" />
+               transform="scale(-1,-1)" />
             <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)"
+               points="33.053,84.09 34.233,84.09 34.791,83.534 32.493,83.534 "
+               id="polygon21415-59-1-4"
                style="fill:#b8af82;stroke-width:0"
-               id="polygon5071"
-               points="32.493,83.534 33.053,84.09 34.233,84.09 34.791,83.534 " />
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
             <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)"
+               points="34.233,84.09 34.791,83.534 34.791,85.833 34.233,85.273 "
+               id="polygon21417-3-0-8"
                style="fill:#80795b;stroke-width:0"
-               id="polygon5073"
-               points="34.233,85.273 34.233,84.09 34.791,83.534 34.791,85.833 " />
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
             <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)"
+               points="34.233,85.273 34.791,85.833 32.493,85.833 33.053,85.273 "
+               id="polygon21419-2-0-6"
                style="fill:#5e5b43;stroke-width:0"
-               id="polygon5075"
-               points="33.053,85.273 34.233,85.273 34.791,85.833 32.493,85.833 " />
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
             <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)"
+               points="33.053,84.09 33.053,85.273 32.493,85.833 32.493,83.534 "
+               id="polygon21421-8-0-5"
                style="fill:#9a916c;stroke-width:0"
-               id="polygon5077"
-               points="32.493,83.534 33.053,84.09 33.053,85.273 32.493,85.833 " />
-            <g
-               transform="matrix(0,1,-1,0,1002.3991,687.15202)"
-               id="g5079">
-              <rect
-                 width="1.4762502"
-                 x="-85.105492"
-                 y="-756.82385"
-                 height="1.4787502"
-                 id="rect5081"
-                 style="fill:#8c8663;stroke-width:0"
-                 transform="scale(-1,-1)" />
-              <polygon
-                 points="32.493,83.534 33.053,84.09 34.233,84.09 34.791,83.534 "
-                 id="polygon5083"
-                 style="fill:#b8af82;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-              <polygon
-                 points="34.233,85.273 34.233,84.09 34.791,83.534 34.791,85.833 "
-                 id="polygon5085"
-                 style="fill:#80795b;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-              <polygon
-                 points="33.053,85.273 34.233,85.273 34.791,85.833 32.493,85.833 "
-                 id="polygon5087"
-                 style="fill:#5e5b43;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-              <polygon
-                 points="32.493,83.534 33.053,84.09 33.053,85.273 32.493,85.833 "
-                 id="polygon5089"
-                 style="fill:#9a916c;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-            </g>
-            <rect
-               transform="matrix(0,-1,1,0,0,0)"
-               style="fill:#8c8663;stroke-width:0"
-               id="rect5091"
-               height="1.4787502"
-               y="245.54105"
-               x="-811.0329"
-               width="1.4762502" />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)"
-               style="fill:#b8af82;stroke-width:0"
-               id="polygon5093"
-               points="32.493,83.534 33.053,84.09 34.233,84.09 34.791,83.534 " />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)"
-               style="fill:#80795b;stroke-width:0"
-               id="polygon5095"
-               points="34.233,85.273 34.233,84.09 34.791,83.534 34.791,85.833 " />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)"
-               style="fill:#5e5b43;stroke-width:0"
-               id="polygon5097"
-               points="33.053,85.273 34.233,85.273 34.791,85.833 32.493,85.833 " />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)"
-               style="fill:#9a916c;stroke-width:0"
-               id="polygon5099"
-               points="32.493,83.534 33.053,84.09 33.053,85.273 32.493,85.833 " />
-            <g
-               transform="matrix(0,1,-1,0,1002.3649,716.23357)"
-               id="g5101">
-              <rect
-                 width="1.4762502"
-                 x="-85.105492"
-                 y="-756.82385"
-                 height="1.4787502"
-                 id="rect5103"
-                 style="fill:#8c8663;stroke-width:0"
-                 transform="scale(-1,-1)" />
-              <polygon
-                 points="32.493,83.534 33.053,84.09 34.233,84.09 34.791,83.534 "
-                 id="polygon5105"
-                 style="fill:#b8af82;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-              <polygon
-                 points="34.233,85.273 34.233,84.09 34.791,83.534 34.791,85.833 "
-                 id="polygon5107"
-                 style="fill:#80795b;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-              <polygon
-                 points="33.053,85.273 34.233,85.273 34.791,85.833 32.493,85.833 "
-                 id="polygon5109"
-                 style="fill:#5e5b43;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-              <polygon
-                 points="32.493,83.534 33.053,84.09 33.053,85.273 32.493,85.833 "
-                 id="polygon5111"
-                 style="fill:#9a916c;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-            </g>
-            <rect
-               transform="matrix(0,-1,1,0,0,0)"
-               style="fill:#8c8663;stroke-width:0"
-               id="rect5113"
-               height="1.4787502"
-               y="235.88145"
-               x="-791.64526"
-               width="1.4762502" />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)"
-               style="fill:#b8af82;stroke-width:0"
-               id="polygon5115"
-               points="33.053,84.09 34.233,84.09 34.791,83.534 32.493,83.534 " />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)"
-               style="fill:#80795b;stroke-width:0"
-               id="polygon5117"
-               points="34.233,84.09 34.791,83.534 34.791,85.833 34.233,85.273 " />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)"
-               style="fill:#5e5b43;stroke-width:0"
-               id="polygon5119"
-               points="34.233,85.273 34.791,85.833 32.493,85.833 33.053,85.273 " />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)"
-               style="fill:#9a916c;stroke-width:0"
-               id="polygon5121"
-               points="33.053,84.09 33.053,85.273 32.493,85.833 32.493,83.534 " />
-            <rect
-               transform="matrix(0,-1,1,0,0,0)"
-               style="fill:#8c8663;stroke-width:0"
-               id="rect5123"
-               height="1.4787502"
-               y="235.88145"
-               x="-781.95135"
-               width="1.4762502" />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)"
-               style="fill:#b8af82;stroke-width:0"
-               id="polygon5125"
-               points="33.053,84.09 34.233,84.09 34.791,83.534 32.493,83.534 " />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)"
-               style="fill:#80795b;stroke-width:0"
-               id="polygon5127"
-               points="34.233,84.09 34.791,83.534 34.791,85.833 34.233,85.273 " />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)"
-               style="fill:#5e5b43;stroke-width:0"
-               id="polygon5129"
-               points="34.233,85.273 34.791,85.833 32.493,85.833 33.053,85.273 " />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)"
-               style="fill:#9a916c;stroke-width:0"
-               id="polygon5131"
-               points="33.053,84.09 33.053,85.273 32.493,85.833 32.493,83.534 " />
-            <g
-               transform="matrix(0,1,-1,0,992.70531,687.15202)"
-               id="g5133">
-              <rect
-                 width="1.4762502"
-                 x="-85.105492"
-                 y="-756.82385"
-                 height="1.4787502"
-                 id="rect5135"
-                 style="fill:#8c8663;stroke-width:0"
-                 transform="scale(-1,-1)" />
-              <polygon
-                 points="33.053,84.09 34.233,84.09 34.791,83.534 32.493,83.534 "
-                 id="polygon5137"
-                 style="fill:#b8af82;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-              <polygon
-                 points="34.233,84.09 34.791,83.534 34.791,85.833 34.233,85.273 "
-                 id="polygon5139"
-                 style="fill:#80795b;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-              <polygon
-                 points="34.233,85.273 34.791,85.833 32.493,85.833 33.053,85.273 "
-                 id="polygon5141"
-                 style="fill:#5e5b43;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-              <polygon
-                 points="33.053,84.09 33.053,85.273 32.493,85.833 32.493,83.534 "
-                 id="polygon5143"
-                 style="fill:#9a916c;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-            </g>
-            <rect
-               transform="matrix(0,-1,1,0,0,0)"
-               style="fill:#8c8663;stroke-width:0"
-               id="rect5145"
-               height="1.4787502"
-               y="235.84726"
-               x="-811.0329"
-               width="1.4762502" />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)"
-               style="fill:#b8af82;stroke-width:0"
-               id="polygon5147"
-               points="33.053,84.09 34.233,84.09 34.791,83.534 32.493,83.534 " />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)"
-               style="fill:#80795b;stroke-width:0"
-               id="polygon5149"
-               points="34.233,84.09 34.791,83.534 34.791,85.833 34.233,85.273 " />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)"
-               style="fill:#5e5b43;stroke-width:0"
-               id="polygon5151"
-               points="34.233,85.273 34.791,85.833 32.493,85.833 33.053,85.273 " />
-            <polygon
-               transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)"
-               style="fill:#9a916c;stroke-width:0"
-               id="polygon5153"
-               points="33.053,84.09 33.053,85.273 32.493,85.833 32.493,83.534 " />
-            <g
-               transform="matrix(0,1,-1,0,992.67111,716.23357)"
-               id="g5155">
-              <rect
-                 width="1.4762502"
-                 x="-85.105492"
-                 y="-756.82385"
-                 height="1.4787502"
-                 id="rect5157"
-                 style="fill:#8c8663;stroke-width:0"
-                 transform="scale(-1,-1)" />
-              <polygon
-                 points="33.053,84.09 34.233,84.09 34.791,83.534 32.493,83.534 "
-                 id="polygon5159"
-                 style="fill:#b8af82;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-              <polygon
-                 points="34.233,84.09 34.791,83.534 34.791,85.833 34.233,85.273 "
-                 id="polygon5161"
-                 style="fill:#80795b;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-              <polygon
-                 points="34.233,85.273 34.791,85.833 32.493,85.833 33.053,85.273 "
-                 id="polygon5163"
-                 style="fill:#5e5b43;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-              <polygon
-                 points="33.053,84.09 33.053,85.273 32.493,85.833 32.493,83.534 "
-                 id="polygon5165"
-                 style="fill:#9a916c;stroke-width:0"
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
-            </g>
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
           </g>
+          <rect
+             transform="matrix(0,-1,1,0,0,0)"
+             style="fill:#8c8663;stroke-width:0"
+             id="rect21413-0-2"
+             height="1.4787502"
+             y="235.88145"
+             x="-791.64526"
+             width="1.4762502" />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)"
+             style="fill:#b8af82;stroke-width:0"
+             id="polygon21415-9-6"
+             points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)"
+             style="fill:#80795b;stroke-width:0"
+             id="polygon21417-4-5"
+             points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)"
+             style="fill:#5e5b43;stroke-width:0"
+             id="polygon21419-88-3"
+             points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)"
+             style="fill:#9a916c;stroke-width:0"
+             id="polygon21421-2-9"
+             points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 " />
+          <rect
+             transform="matrix(0,-1,1,0,0,0)"
+             style="fill:#8c8663;stroke-width:0"
+             id="rect21413-4-1"
+             height="1.4787502"
+             y="235.88145"
+             x="-781.95135"
+             width="1.4762502" />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)"
+             style="fill:#b8af82;stroke-width:0"
+             id="polygon21415-5-8"
+             points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)"
+             style="fill:#80795b;stroke-width:0"
+             id="polygon21417-6-2"
+             points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)"
+             style="fill:#5e5b43;stroke-width:0"
+             id="polygon21419-8-1"
+             points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)"
+             style="fill:#9a916c;stroke-width:0"
+             id="polygon21421-0-1"
+             points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 " />
           <g
-             transform="matrix(-1,0,0,-1,911.62372,1034.5987)"
-             id="g5167">
+             transform="matrix(0,1,-1,0,992.70531,687.15202)"
+             id="g36369-2">
             <rect
                width="1.4762502"
-               x="-791.64526"
-               y="245.57524"
+               x="-85.105492"
+               y="-756.82385"
                height="1.4787502"
-               id="rect5169"
+               id="rect21413-5-9"
                style="fill:#8c8663;stroke-width:0"
-               transform="matrix(0,-1,1,0,0,0)" />
+               transform="scale(-1,-1)" />
             <polygon
                points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 "
-               id="polygon5171"
+               id="polygon21415-59-5"
                style="fill:#b8af82;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)" />
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
             <polygon
                points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 "
-               id="polygon5173"
+               id="polygon21417-3-2"
                style="fill:#80795b;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)" />
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
             <polygon
                points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 "
-               id="polygon5175"
+               id="polygon21419-2-00"
                style="fill:#5e5b43;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)" />
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
             <polygon
                points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 "
-               id="polygon5177"
+               id="polygon21421-8-3"
                style="fill:#9a916c;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)" />
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+          </g>
+          <rect
+             transform="matrix(0,-1,1,0,0,0)"
+             style="fill:#8c8663;stroke-width:0"
+             id="rect21413-4-8-5-9"
+             height="1.4787502"
+             y="235.84726"
+             x="-811.0329"
+             width="1.4762502" />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)"
+             style="fill:#b8af82;stroke-width:0"
+             id="polygon21415-5-1-1-53"
+             points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)"
+             style="fill:#80795b;stroke-width:0"
+             id="polygon21417-6-7-0-2"
+             points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)"
+             style="fill:#5e5b43;stroke-width:0"
+             id="polygon21419-8-5-9-5"
+             points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)"
+             style="fill:#9a916c;stroke-width:0"
+             id="polygon21421-0-2-9-2"
+             points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 " />
+          <g
+             transform="matrix(0,1,-1,0,992.67111,716.23357)"
+             id="g36369-5-6">
             <rect
                width="1.4762502"
-               x="-781.95135"
-               y="245.57524"
+               x="-85.105492"
+               y="-756.82385"
                height="1.4787502"
-               id="rect5179"
+               id="rect21413-5-3-7"
                style="fill:#8c8663;stroke-width:0"
-               transform="matrix(0,-1,1,0,0,0)" />
+               transform="scale(-1,-1)" />
             <polygon
                points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 "
-               id="polygon5181"
+               id="polygon21415-59-1-7"
                style="fill:#b8af82;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)" />
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
             <polygon
                points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 "
-               id="polygon5183"
+               id="polygon21417-3-0-22"
                style="fill:#80795b;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)" />
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
             <polygon
                points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 "
-               id="polygon5185"
+               id="polygon21419-2-0-9"
                style="fill:#5e5b43;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)" />
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
             <polygon
                points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 "
-               id="polygon5187"
+               id="polygon21421-8-0-4"
                style="fill:#9a916c;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)" />
-            <g
-               id="g5189"
-               transform="matrix(0,1,-1,0,1002.3991,687.15202)">
-              <rect
-                 transform="scale(-1,-1)"
-                 style="fill:#8c8663;stroke-width:0"
-                 id="rect5191"
-                 height="1.4787502"
-                 y="-756.82385"
-                 x="-85.105492"
-                 width="1.4762502" />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#b8af82;stroke-width:0"
-                 id="polygon5193"
-                 points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#80795b;stroke-width:0"
-                 id="polygon5195"
-                 points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#5e5b43;stroke-width:0"
-                 id="polygon5197"
-                 points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#9a916c;stroke-width:0"
-                 id="polygon5199"
-                 points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 " />
-            </g>
-            <rect
-               width="1.4762502"
-               x="-811.0329"
-               y="245.54105"
-               height="1.4787502"
-               id="rect5201"
-               style="fill:#8c8663;stroke-width:0"
-               transform="matrix(0,-1,1,0,0,0)" />
-            <polygon
-               points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 "
-               id="polygon5203"
-               style="fill:#b8af82;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)" />
-            <polygon
-               points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 "
-               id="polygon5205"
-               style="fill:#80795b;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)" />
-            <polygon
-               points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 "
-               id="polygon5207"
-               style="fill:#5e5b43;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)" />
-            <polygon
-               points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 "
-               id="polygon5209"
-               style="fill:#9a916c;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)" />
-            <g
-               id="g5211"
-               transform="matrix(0,1,-1,0,1002.3649,716.23357)">
-              <rect
-                 transform="scale(-1,-1)"
-                 style="fill:#8c8663;stroke-width:0"
-                 id="rect5213"
-                 height="1.4787502"
-                 y="-756.82385"
-                 x="-85.105492"
-                 width="1.4762502" />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#b8af82;stroke-width:0"
-                 id="polygon5215"
-                 points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#80795b;stroke-width:0"
-                 id="polygon5217"
-                 points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#5e5b43;stroke-width:0"
-                 id="polygon5219"
-                 points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#9a916c;stroke-width:0"
-                 id="polygon5221"
-                 points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 " />
-            </g>
-            <rect
-               width="1.4762502"
-               x="-791.64526"
-               y="235.88145"
-               height="1.4787502"
-               id="rect5223"
-               style="fill:#8c8663;stroke-width:0"
-               transform="matrix(0,-1,1,0,0,0)" />
-            <polygon
-               points="34.791,83.534 32.493,83.534 33.053,84.09 34.233,84.09 "
-               id="polygon5225"
-               style="fill:#b8af82;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)" />
-            <polygon
-               points="34.791,85.833 34.233,85.273 34.233,84.09 34.791,83.534 "
-               id="polygon5227"
-               style="fill:#80795b;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)" />
-            <polygon
-               points="32.493,85.833 33.053,85.273 34.233,85.273 34.791,85.833 "
-               id="polygon5229"
-               style="fill:#5e5b43;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)" />
-            <polygon
-               points="32.493,85.833 32.493,83.534 33.053,84.09 33.053,85.273 "
-               id="polygon5231"
-               style="fill:#9a916c;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)" />
-            <rect
-               width="1.4762502"
-               x="-781.95135"
-               y="235.88145"
-               height="1.4787502"
-               id="rect5233"
-               style="fill:#8c8663;stroke-width:0"
-               transform="matrix(0,-1,1,0,0,0)" />
-            <polygon
-               points="34.791,83.534 32.493,83.534 33.053,84.09 34.233,84.09 "
-               id="polygon5235"
-               style="fill:#b8af82;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)" />
-            <polygon
-               points="34.791,85.833 34.233,85.273 34.233,84.09 34.791,83.534 "
-               id="polygon5237"
-               style="fill:#80795b;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)" />
-            <polygon
-               points="32.493,85.833 33.053,85.273 34.233,85.273 34.791,85.833 "
-               id="polygon5239"
-               style="fill:#5e5b43;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)" />
-            <polygon
-               points="32.493,85.833 32.493,83.534 33.053,84.09 33.053,85.273 "
-               id="polygon5241"
-               style="fill:#9a916c;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)" />
-            <g
-               id="g5243"
-               transform="matrix(0,1,-1,0,992.70531,687.15202)">
-              <rect
-                 transform="scale(-1,-1)"
-                 style="fill:#8c8663;stroke-width:0"
-                 id="rect5245"
-                 height="1.4787502"
-                 y="-756.82385"
-                 x="-85.105492"
-                 width="1.4762502" />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#b8af82;stroke-width:0"
-                 id="polygon5247"
-                 points="34.791,83.534 32.493,83.534 33.053,84.09 34.233,84.09 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#80795b;stroke-width:0"
-                 id="polygon5249"
-                 points="34.791,85.833 34.233,85.273 34.233,84.09 34.791,83.534 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#5e5b43;stroke-width:0"
-                 id="polygon5251"
-                 points="32.493,85.833 33.053,85.273 34.233,85.273 34.791,85.833 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#9a916c;stroke-width:0"
-                 id="polygon5253"
-                 points="32.493,85.833 32.493,83.534 33.053,84.09 33.053,85.273 " />
-            </g>
-            <rect
-               width="1.4762502"
-               x="-811.0329"
-               y="235.84726"
-               height="1.4787502"
-               id="rect5255"
-               style="fill:#8c8663;stroke-width:0"
-               transform="matrix(0,-1,1,0,0,0)" />
-            <polygon
-               points="34.791,83.534 32.493,83.534 33.053,84.09 34.233,84.09 "
-               id="polygon5257"
-               style="fill:#b8af82;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)" />
-            <polygon
-               points="34.791,85.833 34.233,85.273 34.233,84.09 34.791,83.534 "
-               id="polygon5259"
-               style="fill:#80795b;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)" />
-            <polygon
-               points="32.493,85.833 33.053,85.273 34.233,85.273 34.791,85.833 "
-               id="polygon5261"
-               style="fill:#5e5b43;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)" />
-            <polygon
-               points="32.493,85.833 32.493,83.534 33.053,84.09 33.053,85.273 "
-               id="polygon5263"
-               style="fill:#9a916c;stroke-width:0"
-               transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)" />
-            <g
-               id="g5265"
-               transform="matrix(0,1,-1,0,992.67111,716.23357)">
-              <rect
-                 transform="scale(-1,-1)"
-                 style="fill:#8c8663;stroke-width:0"
-                 id="rect5267"
-                 height="1.4787502"
-                 y="-756.82385"
-                 x="-85.105492"
-                 width="1.4762502" />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#b8af82;stroke-width:0"
-                 id="polygon5269"
-                 points="34.791,83.534 32.493,83.534 33.053,84.09 34.233,84.09 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#80795b;stroke-width:0"
-                 id="polygon5271"
-                 points="34.791,85.833 34.233,85.273 34.233,84.09 34.791,83.534 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#5e5b43;stroke-width:0"
-                 id="polygon5273"
-                 points="32.493,85.833 33.053,85.273 34.233,85.273 34.791,85.833 " />
-              <polygon
-                 transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
-                 style="fill:#9a916c;stroke-width:0"
-                 id="polygon5275"
-                 points="32.493,85.833 32.493,83.534 33.053,84.09 33.053,85.273 " />
-            </g>
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
           </g>
         </g>
+        <g
+           transform="matrix(0,1,-1,0,1734.4918,-167.87083)"
+           id="g5057">
+          <rect
+             width="1.4762502"
+             x="-791.64526"
+             y="245.57524"
+             height="1.4787502"
+             id="rect5059"
+             style="fill:#8c8663;stroke-width:0"
+             transform="matrix(0,-1,1,0,0,0)" />
+          <polygon
+             points="34.791,83.534 32.493,83.534 33.053,84.09 34.233,84.09 "
+             id="polygon5061"
+             style="fill:#b8af82;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)" />
+          <polygon
+             points="34.791,85.833 34.233,85.273 34.233,84.09 34.791,83.534 "
+             id="polygon5063"
+             style="fill:#80795b;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)" />
+          <polygon
+             points="32.493,85.833 33.053,85.273 34.233,85.273 34.791,85.833 "
+             id="polygon5065"
+             style="fill:#5e5b43;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)" />
+          <polygon
+             points="32.493,85.833 32.493,83.534 33.053,84.09 33.053,85.273 "
+             id="polygon5067"
+             style="fill:#9a916c;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)" />
+          <rect
+             width="1.4762502"
+             x="-781.95135"
+             y="245.57524"
+             height="1.4787502"
+             id="rect5069"
+             style="fill:#8c8663;stroke-width:0"
+             transform="matrix(0,-1,1,0,0,0)" />
+          <polygon
+             points="34.791,83.534 32.493,83.534 33.053,84.09 34.233,84.09 "
+             id="polygon5071"
+             style="fill:#b8af82;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)" />
+          <polygon
+             points="34.791,85.833 34.233,85.273 34.233,84.09 34.791,83.534 "
+             id="polygon5073"
+             style="fill:#80795b;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)" />
+          <polygon
+             points="32.493,85.833 33.053,85.273 34.233,85.273 34.791,85.833 "
+             id="polygon5075"
+             style="fill:#5e5b43;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)" />
+          <polygon
+             points="32.493,85.833 32.493,83.534 33.053,84.09 33.053,85.273 "
+             id="polygon5077"
+             style="fill:#9a916c;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)" />
+          <g
+             id="g5079"
+             transform="matrix(0,1,-1,0,1002.3991,687.15202)">
+            <rect
+               transform="scale(-1,-1)"
+               style="fill:#8c8663;stroke-width:0"
+               id="rect5081"
+               height="1.4787502"
+               y="-756.82385"
+               x="-85.105492"
+               width="1.4762502" />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#b8af82;stroke-width:0"
+               id="polygon5083"
+               points="34.791,83.534 32.493,83.534 33.053,84.09 34.233,84.09 " />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#80795b;stroke-width:0"
+               id="polygon5085"
+               points="34.791,85.833 34.233,85.273 34.233,84.09 34.791,83.534 " />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#5e5b43;stroke-width:0"
+               id="polygon5087"
+               points="32.493,85.833 33.053,85.273 34.233,85.273 34.791,85.833 " />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#9a916c;stroke-width:0"
+               id="polygon5089"
+               points="32.493,85.833 32.493,83.534 33.053,84.09 33.053,85.273 " />
+          </g>
+          <rect
+             width="1.4762502"
+             x="-811.0329"
+             y="245.54105"
+             height="1.4787502"
+             id="rect5091"
+             style="fill:#8c8663;stroke-width:0"
+             transform="matrix(0,-1,1,0,0,0)" />
+          <polygon
+             points="34.791,83.534 32.493,83.534 33.053,84.09 34.233,84.09 "
+             id="polygon5093"
+             style="fill:#b8af82;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)" />
+          <polygon
+             points="34.791,85.833 34.233,85.273 34.233,84.09 34.791,83.534 "
+             id="polygon5095"
+             style="fill:#80795b;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)" />
+          <polygon
+             points="32.493,85.833 33.053,85.273 34.233,85.273 34.791,85.833 "
+             id="polygon5097"
+             style="fill:#5e5b43;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)" />
+          <polygon
+             points="32.493,85.833 32.493,83.534 33.053,84.09 33.053,85.273 "
+             id="polygon5099"
+             style="fill:#9a916c;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)" />
+          <g
+             id="g5101"
+             transform="matrix(0,1,-1,0,1002.3649,716.23357)">
+            <rect
+               transform="scale(-1,-1)"
+               style="fill:#8c8663;stroke-width:0"
+               id="rect5103"
+               height="1.4787502"
+               y="-756.82385"
+               x="-85.105492"
+               width="1.4762502" />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#b8af82;stroke-width:0"
+               id="polygon5105"
+               points="34.791,83.534 32.493,83.534 33.053,84.09 34.233,84.09 " />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#80795b;stroke-width:0"
+               id="polygon5107"
+               points="34.791,85.833 34.233,85.273 34.233,84.09 34.791,83.534 " />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#5e5b43;stroke-width:0"
+               id="polygon5109"
+               points="32.493,85.833 33.053,85.273 34.233,85.273 34.791,85.833 " />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#9a916c;stroke-width:0"
+               id="polygon5111"
+               points="32.493,85.833 32.493,83.534 33.053,84.09 33.053,85.273 " />
+          </g>
+          <rect
+             width="1.4762502"
+             x="-791.64526"
+             y="235.88145"
+             height="1.4787502"
+             id="rect5113"
+             style="fill:#8c8663;stroke-width:0"
+             transform="matrix(0,-1,1,0,0,0)" />
+          <polygon
+             points="32.493,83.534 33.053,84.09 34.233,84.09 34.791,83.534 "
+             id="polygon5115"
+             style="fill:#b8af82;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)" />
+          <polygon
+             points="34.233,85.273 34.233,84.09 34.791,83.534 34.791,85.833 "
+             id="polygon5117"
+             style="fill:#80795b;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)" />
+          <polygon
+             points="33.053,85.273 34.233,85.273 34.791,85.833 32.493,85.833 "
+             id="polygon5119"
+             style="fill:#5e5b43;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)" />
+          <polygon
+             points="32.493,83.534 33.053,84.09 33.053,85.273 32.493,85.833 "
+             id="polygon5121"
+             style="fill:#9a916c;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)" />
+          <rect
+             width="1.4762502"
+             x="-781.95135"
+             y="235.88145"
+             height="1.4787502"
+             id="rect5123"
+             style="fill:#8c8663;stroke-width:0"
+             transform="matrix(0,-1,1,0,0,0)" />
+          <polygon
+             points="32.493,83.534 33.053,84.09 34.233,84.09 34.791,83.534 "
+             id="polygon5125"
+             style="fill:#b8af82;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)" />
+          <polygon
+             points="34.233,85.273 34.233,84.09 34.791,83.534 34.791,85.833 "
+             id="polygon5127"
+             style="fill:#80795b;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)" />
+          <polygon
+             points="33.053,85.273 34.233,85.273 34.791,85.833 32.493,85.833 "
+             id="polygon5129"
+             style="fill:#5e5b43;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)" />
+          <polygon
+             points="32.493,83.534 33.053,84.09 33.053,85.273 32.493,85.833 "
+             id="polygon5131"
+             style="fill:#9a916c;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)" />
+          <g
+             id="g5133"
+             transform="matrix(0,1,-1,0,992.70531,687.15202)">
+            <rect
+               transform="scale(-1,-1)"
+               style="fill:#8c8663;stroke-width:0"
+               id="rect5135"
+               height="1.4787502"
+               y="-756.82385"
+               x="-85.105492"
+               width="1.4762502" />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#b8af82;stroke-width:0"
+               id="polygon5137"
+               points="32.493,83.534 33.053,84.09 34.233,84.09 34.791,83.534 " />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#80795b;stroke-width:0"
+               id="polygon5139"
+               points="34.233,85.273 34.233,84.09 34.791,83.534 34.791,85.833 " />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#5e5b43;stroke-width:0"
+               id="polygon5141"
+               points="33.053,85.273 34.233,85.273 34.791,85.833 32.493,85.833 " />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#9a916c;stroke-width:0"
+               id="polygon5143"
+               points="32.493,83.534 33.053,84.09 33.053,85.273 32.493,85.833 " />
+          </g>
+          <rect
+             width="1.4762502"
+             x="-811.0329"
+             y="235.84726"
+             height="1.4787502"
+             id="rect5145"
+             style="fill:#8c8663;stroke-width:0"
+             transform="matrix(0,-1,1,0,0,0)" />
+          <polygon
+             points="32.493,83.534 33.053,84.09 34.233,84.09 34.791,83.534 "
+             id="polygon5147"
+             style="fill:#b8af82;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)" />
+          <polygon
+             points="34.233,85.273 34.233,84.09 34.791,83.534 34.791,85.833 "
+             id="polygon5149"
+             style="fill:#80795b;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)" />
+          <polygon
+             points="33.053,85.273 34.233,85.273 34.791,85.833 32.493,85.833 "
+             id="polygon5151"
+             style="fill:#5e5b43;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)" />
+          <polygon
+             points="32.493,83.534 33.053,84.09 33.053,85.273 32.493,85.833 "
+             id="polygon5153"
+             style="fill:#9a916c;stroke-width:0"
+             transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)" />
+          <g
+             id="g5155"
+             transform="matrix(0,1,-1,0,992.67111,716.23357)">
+            <rect
+               transform="scale(-1,-1)"
+               style="fill:#8c8663;stroke-width:0"
+               id="rect5157"
+               height="1.4787502"
+               y="-756.82385"
+               x="-85.105492"
+               width="1.4762502" />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#b8af82;stroke-width:0"
+               id="polygon5159"
+               points="32.493,83.534 33.053,84.09 34.233,84.09 34.791,83.534 " />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#80795b;stroke-width:0"
+               id="polygon5161"
+               points="34.233,85.273 34.233,84.09 34.791,83.534 34.791,85.833 " />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#5e5b43;stroke-width:0"
+               id="polygon5163"
+               points="33.053,85.273 34.233,85.273 34.791,85.833 32.493,85.833 " />
+            <polygon
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)"
+               style="fill:#9a916c;stroke-width:0"
+               id="polygon5165"
+               points="32.493,83.534 33.053,84.09 33.053,85.273 32.493,85.833 " />
+          </g>
+        </g>
+        <g
+           id="g5167"
+           transform="matrix(0,1,-1,0,1773.2887,-167.87083)">
+          <rect
+             transform="matrix(0,-1,1,0,0,0)"
+             style="fill:#8c8663;stroke-width:0"
+             id="rect5169"
+             height="1.4787502"
+             y="245.57524"
+             x="-791.64526"
+             width="1.4762502" />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)"
+             style="fill:#b8af82;stroke-width:0"
+             id="polygon5171"
+             points="33.053,84.09 34.233,84.09 34.791,83.534 32.493,83.534 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)"
+             style="fill:#80795b;stroke-width:0"
+             id="polygon5173"
+             points="34.233,84.09 34.791,83.534 34.791,85.833 34.233,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)"
+             style="fill:#5e5b43;stroke-width:0"
+             id="polygon5175"
+             points="34.233,85.273 34.791,85.833 32.493,85.833 33.053,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,832.96147)"
+             style="fill:#9a916c;stroke-width:0"
+             id="polygon5177"
+             points="33.053,84.09 33.053,85.273 32.493,85.833 32.493,83.534 " />
+          <rect
+             transform="matrix(0,-1,1,0,0,0)"
+             style="fill:#8c8663;stroke-width:0"
+             id="rect5179"
+             height="1.4787502"
+             y="245.57524"
+             x="-781.95135"
+             width="1.4762502" />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)"
+             style="fill:#b8af82;stroke-width:0"
+             id="polygon5181"
+             points="33.053,84.09 34.233,84.09 34.791,83.534 32.493,83.534 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)"
+             style="fill:#80795b;stroke-width:0"
+             id="polygon5183"
+             points="34.233,84.09 34.791,83.534 34.791,85.833 34.233,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)"
+             style="fill:#5e5b43;stroke-width:0"
+             id="polygon5185"
+             points="34.233,85.273 34.791,85.833 32.493,85.833 33.053,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.46279,823.26762)"
+             style="fill:#9a916c;stroke-width:0"
+             id="polygon5187"
+             points="33.053,84.09 33.053,85.273 32.493,85.833 32.493,83.534 " />
+          <g
+             transform="matrix(0,1,-1,0,1002.3991,687.15202)"
+             id="g5189">
+            <rect
+               width="1.4762502"
+               x="-85.105492"
+               y="-756.82385"
+               height="1.4787502"
+               id="rect5191"
+               style="fill:#8c8663;stroke-width:0"
+               transform="scale(-1,-1)" />
+            <polygon
+               points="33.053,84.09 34.233,84.09 34.791,83.534 32.493,83.534 "
+               id="polygon5193"
+               style="fill:#b8af82;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+            <polygon
+               points="34.233,84.09 34.791,83.534 34.791,85.833 34.233,85.273 "
+               id="polygon5195"
+               style="fill:#80795b;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+            <polygon
+               points="34.233,85.273 34.791,85.833 32.493,85.833 33.053,85.273 "
+               id="polygon5197"
+               style="fill:#5e5b43;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+            <polygon
+               points="33.053,84.09 33.053,85.273 32.493,85.833 32.493,83.534 "
+               id="polygon5199"
+               style="fill:#9a916c;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+          </g>
+          <rect
+             transform="matrix(0,-1,1,0,0,0)"
+             style="fill:#8c8663;stroke-width:0"
+             id="rect5201"
+             height="1.4787502"
+             y="245.54105"
+             x="-811.0329"
+             width="1.4762502" />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)"
+             style="fill:#b8af82;stroke-width:0"
+             id="polygon5203"
+             points="33.053,84.09 34.233,84.09 34.791,83.534 32.493,83.534 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)"
+             style="fill:#80795b;stroke-width:0"
+             id="polygon5205"
+             points="34.233,84.09 34.791,83.534 34.791,85.833 34.233,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)"
+             style="fill:#5e5b43;stroke-width:0"
+             id="polygon5207"
+             points="34.233,85.273 34.791,85.833 32.493,85.833 33.053,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,140.42859,852.34917)"
+             style="fill:#9a916c;stroke-width:0"
+             id="polygon5209"
+             points="33.053,84.09 33.053,85.273 32.493,85.833 32.493,83.534 " />
+          <g
+             transform="matrix(0,1,-1,0,1002.3649,716.23357)"
+             id="g5211">
+            <rect
+               width="1.4762502"
+               x="-85.105492"
+               y="-756.82385"
+               height="1.4787502"
+               id="rect5213"
+               style="fill:#8c8663;stroke-width:0"
+               transform="scale(-1,-1)" />
+            <polygon
+               points="33.053,84.09 34.233,84.09 34.791,83.534 32.493,83.534 "
+               id="polygon5215"
+               style="fill:#b8af82;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+            <polygon
+               points="34.233,84.09 34.791,83.534 34.791,85.833 34.233,85.273 "
+               id="polygon5217"
+               style="fill:#80795b;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+            <polygon
+               points="34.233,85.273 34.791,85.833 32.493,85.833 33.053,85.273 "
+               id="polygon5219"
+               style="fill:#5e5b43;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+            <polygon
+               points="33.053,84.09 33.053,85.273 32.493,85.833 32.493,83.534 "
+               id="polygon5221"
+               style="fill:#9a916c;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+          </g>
+          <rect
+             transform="matrix(0,-1,1,0,0,0)"
+             style="fill:#8c8663;stroke-width:0"
+             id="rect5223"
+             height="1.4787502"
+             y="235.88145"
+             x="-791.64526"
+             width="1.4762502" />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)"
+             style="fill:#b8af82;stroke-width:0"
+             id="polygon5225"
+             points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)"
+             style="fill:#80795b;stroke-width:0"
+             id="polygon5227"
+             points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)"
+             style="fill:#5e5b43;stroke-width:0"
+             id="polygon5229"
+             points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,832.96147)"
+             style="fill:#9a916c;stroke-width:0"
+             id="polygon5231"
+             points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 " />
+          <rect
+             transform="matrix(0,-1,1,0,0,0)"
+             style="fill:#8c8663;stroke-width:0"
+             id="rect5233"
+             height="1.4787502"
+             y="235.88145"
+             x="-781.95135"
+             width="1.4762502" />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)"
+             style="fill:#b8af82;stroke-width:0"
+             id="polygon5235"
+             points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)"
+             style="fill:#80795b;stroke-width:0"
+             id="polygon5237"
+             points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)"
+             style="fill:#5e5b43;stroke-width:0"
+             id="polygon5239"
+             points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.769,823.26762)"
+             style="fill:#9a916c;stroke-width:0"
+             id="polygon5241"
+             points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 " />
+          <g
+             transform="matrix(0,1,-1,0,992.70531,687.15202)"
+             id="g5243">
+            <rect
+               width="1.4762502"
+               x="-85.105492"
+               y="-756.82385"
+               height="1.4787502"
+               id="rect5245"
+               style="fill:#8c8663;stroke-width:0"
+               transform="scale(-1,-1)" />
+            <polygon
+               points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 "
+               id="polygon5247"
+               style="fill:#b8af82;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+            <polygon
+               points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 "
+               id="polygon5249"
+               style="fill:#80795b;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+            <polygon
+               points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 "
+               id="polygon5251"
+               style="fill:#5e5b43;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+            <polygon
+               points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 "
+               id="polygon5253"
+               style="fill:#9a916c;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+          </g>
+          <rect
+             transform="matrix(0,-1,1,0,0,0)"
+             style="fill:#8c8663;stroke-width:0"
+             id="rect5255"
+             height="1.4787502"
+             y="235.84726"
+             x="-811.0329"
+             width="1.4762502" />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)"
+             style="fill:#b8af82;stroke-width:0"
+             id="polygon5257"
+             points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)"
+             style="fill:#80795b;stroke-width:0"
+             id="polygon5259"
+             points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)"
+             style="fill:#5e5b43;stroke-width:0"
+             id="polygon5261"
+             points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 " />
+          <polygon
+             transform="matrix(0,-1.2500002,1.2500002,0,130.7348,852.34917)"
+             style="fill:#9a916c;stroke-width:0"
+             id="polygon5263"
+             points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 " />
+          <g
+             transform="matrix(0,1,-1,0,992.67111,716.23357)"
+             id="g5265">
+            <rect
+               width="1.4762502"
+               x="-85.105492"
+               y="-756.82385"
+               height="1.4787502"
+               id="rect5267"
+               style="fill:#8c8663;stroke-width:0"
+               transform="scale(-1,-1)" />
+            <polygon
+               points="34.233,84.09 34.791,83.534 32.493,83.534 33.053,84.09 "
+               id="polygon5269"
+               style="fill:#b8af82;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+            <polygon
+               points="34.791,83.534 34.791,85.833 34.233,85.273 34.233,84.09 "
+               id="polygon5271"
+               style="fill:#80795b;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+            <polygon
+               points="34.791,85.833 32.493,85.833 33.053,85.273 34.233,85.273 "
+               id="polygon5273"
+               style="fill:#5e5b43;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+            <polygon
+               points="33.053,85.273 32.493,85.833 32.493,83.534 33.053,84.09 "
+               id="polygon5275"
+               style="fill:#9a916c;stroke-width:0"
+               transform="matrix(-1.2500002,0,0,-1.2500002,126.42175,861.93631)" />
+          </g>
+        </g>
+        <text
+           transform="scale(0.9619458,1.0395596)"
+           sodipodi:linespacing="125%"
+           id="text32274-3"
+           y="114.272"
+           x="951.99182"
+           style="font-size:9.49720287px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="fill:#ffffff"
+             y="114.272"
+             x="951.99182"
+             id="tspan32276-4"
+             sodipodi:role="line">DFRobot</tspan></text>
       </g>
       <g
          transform="matrix(0,0.99182165,-1.0786318,0,210.02405,-22.310786)"
@@ -2968,30 +2985,30 @@
            style="fill:none;stroke:#ffffff;stroke-width:0.69611186;stroke-linecap:round" />
       </g>
       <text
-         transform="scale(0.91074349,1.098004)"
+         transform="scale(0.95347364,1.0487967)"
          sodipodi:linespacing="125%"
          id="text32274"
-         y="164.49889"
-         x="286.16229"
-         style="font-size:7.81638622px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         y="172.21683"
+         x="273.285"
+         style="font-size:8.18311405px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            style="fill:#ffffff"
-           y="164.49889"
-           x="286.16229"
+           y="172.21683"
+           x="273.285"
            id="tspan32276"
            sodipodi:role="line">Raspberry Pi GPIO</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:7.81638622px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="286.13803"
-         y="171.78406"
+         style="font-size:8.16180706px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="273.97836"
+         y="179.37552"
          id="text32278"
          sodipodi:linespacing="125%"
-         transform="scale(0.91074349,1.098004)"><tspan
+         transform="scale(0.95099094,1.0515347)"><tspan
            sodipodi:role="line"
            id="tspan32280"
-           x="286.13803"
-           y="171.78406"
+           x="273.97836"
+           y="179.37552"
            style="fill:#ffffff">Extension Board V1.0</tspan></text>
       <g
          transform="matrix(0,0.99182165,-1.0786318,0,304.96577,-43.39316)"
@@ -3499,7 +3516,7 @@
       </g>
       <g
          id="g73767"
-         transform="matrix(1.6067369,0,0,1.543937,-769.10217,-618.37296)">
+         transform="matrix(1.4608162,0,0,1.5133526,-679.00565,-603.92007)">
         <rect
            rx="2.2627692"
            ry="2.8598967"
@@ -3762,39 +3779,6 @@
            x="284.51804"
            id="tspan5068"
            sodipodi:role="line">GND</tspan></text>
-      <rect
-         style="fill:url(#linearGradient5092);fill-opacity:1;stroke:none"
-         id="rect5072"
-         width="11.181291"
-         height="6.7553949"
-         x="261.27414"
-         y="191.40167" />
-      <text
-         xml:space="preserve"
-         style="font-size:8.40936852px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="257.77142"
-         y="200.31821"
-         id="text5094"
-         sodipodi:linespacing="125%"
-         transform="scale(1.012881,0.9872828)"><tspan
-           sodipodi:role="line"
-           id="tspan5096"
-           x="257.77142"
-           y="200.31821"
-           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Aharoni;-inkscape-font-specification:Aharoni Bold">DF</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:10.55823421px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="261.29874"
-         y="206.74454"
-         id="text5098"
-         sodipodi:linespacing="125%"
-         transform="scale(1.0434827,0.95832924)"><tspan
-           sodipodi:role="line"
-           id="tspan5100"
-           x="261.29874"
-           y="206.74454"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Aharoni;-inkscape-font-specification:Aharoni Bold">ROBOT</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:5.49428415px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
